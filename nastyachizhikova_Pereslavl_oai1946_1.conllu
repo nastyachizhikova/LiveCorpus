@@ -1,0 +1,157 @@
+# time_begin = 1:01
+
+OAI@
+
+# sent_id = 3
+# text = прожил там
+1	прожил	прожить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	там	там	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 5
+# text = я
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 7
+# text = в общем-то
+1	в	в	ADP	_	_	_	_	_	_
+2	общем	общий	ADJ	_	Case=Loc|Degree=Pos|!Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+3	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	то	то	PART	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 9
+# text = почти всю свою сознательную жизнь
+1	почти	почти	ADV	_	Degree=Pos	_	_	_	_
+2	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+3	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+4	сознательную	сознательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 11
+# text = значит закончил школу и поступил / в Харьковский авиационный институт который закончил / в семьдесят / первом году / и / был направлен на работу / в город / Свердловск / в те времена
+1	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	школу	школа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	поступил	поступить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	в	в	ADP	_	_	_	_	_	_
+8	Харьковский	Харьковский	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	авиационный	авиационный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+11	который	который	PRON	_	Case=Acc	_	_	_	_
+12	закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	семьдесят	семьдесят	NUM	_	Case=Nom	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+18	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	и	и	CCONJ	_	_	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	направлен	направить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+24	на	на	ADP	_	_	_	_	_	_
+25	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	в	в	ADP	_	_	_	_	_	_
+28	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	Свердловск	Свердловск	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+31	/	/	PUNCT	_	_	_	_	_	_
+32	в	в	ADP	_	_	_	_	_	_
+33	те	тот	DET	_	Case=Acc|Number=Plur	_	_	_	_
+34	времена	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 13
+# text = работал / в оборонной промышленности
+1	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	оборонной	оборонный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	промышленности	промышленность	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 15
+# text = жил и работал я там три года
+1	жил	жить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	и	и	CCONJ	_	_	_	_	_	_
+3	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+5	там	там	ADV	_	Degree=Pos	_	_	_	_
+6	три	три	NUM	_	Animacy=Inan|Case=Nom	_	_	_	_
+7	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 17
+# text = после
+1	после	после	ADP	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 19
+# text = этого
+1	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 21
+# text = был вынужден переехать
+1	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	вынужден	вынудить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+3	переехать	переехать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 23
+# text = опять
+1	опять	опять	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 25
+# text = на свою родину
+1	на	на	ADP	_	_	_	_	_	_
+2	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+3	родину	родина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 27
+# text = в город Снежное Донецкой области
+1	в	в	ADP	_	_	_	_	_	_
+2	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+3	Снежное	Снежное	PROPN	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	Донецкой	Донецкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	области	область	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 29
+# text = работал там на / Снежнянском машиностроительном заводе
+1	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	там	там	ADV	_	Degree=Pos	_	_	_	_
+3	на	на	ADP	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	Снежнянском	Снежнянский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	машиностроительном	машиностроительный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	заводе	завод	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+OAI@
+
+# sent_id = 31
+# text = долгое время
+1	долгое	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+2	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
